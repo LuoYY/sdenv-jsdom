@@ -37,9 +37,6 @@
     "ws": "^8.18.3",
     "xml-name-validator": "^5.0.0"
   },
-  "peerDependencies": {
-    "canvas": "^3.2.0"
-  },
   "peerDependenciesMeta": {
     "canvas": {
       "optional": true
